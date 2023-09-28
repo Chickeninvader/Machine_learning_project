@@ -1,4 +1,9 @@
 # First reinforcement learning project
 
-# Behavior cloning
+# Expert 
+
 ![Alt Text](gym_animation.gif)
+
+# Behavior cloning
+
+![Alt Text](behavior_cloning.gif)
