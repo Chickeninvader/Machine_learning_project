@@ -3,15 +3,15 @@ Purpose: to detect whether there is a face of a person in an image, and to class
 
 The result is shown here
 
-![Large Metric 1](path/to/large_metric_1.png)
+![Large Metric 1](large_metric_1.png)
 
-![Large Metric 2](path/to/large_metric_2.png)
+![Large Metric 2](large_metric_2.png)
 
 ## Medium Metrics
 
-![Medium Metric 1](path/to/medium_metric_1.png)
+![Medium Metric 1](medium_metric_1.png)
 
-![Medium Metric 2](path/to/medium_metric_2.png)
+![Medium Metric 2](medium_metric_2.png)
 
 # First reinforcement learning project
 
