@@ -37,9 +37,6 @@ from gymnasium.wrappers.monitoring.video_recorder import VideoRecorder
 from skrl.trainers.torch import ParallelTrainer
 import warnings
 import os
-from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
-
-os.environ["IMAGEIO_FFMPEG_EXE"] = "/opt/homebrew/Cellar/ffmpeg/5.1/bin/ffmpeg"
 import gymnasium as gym
 
 import torch.nn as nn
