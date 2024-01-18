@@ -1,4 +1,4 @@
-# Face recognition and face detection proejct
+# Face recognition and face detection project
 Purpose: to detect whether there is a face of a person in an image, and to classify the face if it is appear on the dataset. The decrease in the loss function. However, the accuracy do not improve greatly.
 
 The result is shown here
